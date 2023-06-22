@@ -1,6 +1,6 @@
 #import "ObjectTesting.h"
 #import <Foundation/Foundation.h>
-
+// 这是一个测试
 @interface ArrayIVar : NSObject
 {
   NSArray *_testArray;
